@@ -7,3 +7,4 @@ repl-temp-*
 # output of webpack builds
 dist
 dist_test
+*.idea
